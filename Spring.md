@@ -16,5 +16,5 @@
 3. What is the difference between Spring Modules and Spring Projects?
 	```
 	Spring Framework has many modules. Modules have same version as of modules.
-On the other hand Projects such as Spring Boot provide solutions to other issues faced by applications. Spring Framework and Spring Projects have different release version.
+ On the other hand Projects such as Spring Boot provide solutions to other issues faced by applications. Spring Framework and Spring Projects have different release version.
 	```
